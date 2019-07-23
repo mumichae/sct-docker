@@ -3,4 +3,5 @@ anndata
 fa2
 gprofiler-official
 rpy2
+scanpy
 git+https://github.com/flying-sheep/anndata2ri
