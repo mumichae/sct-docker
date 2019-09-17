@@ -16,10 +16,12 @@ pytables
 statsmodels
 python-igraph
 louvain
+memory_profiler
 r-rngtools
+r-seurat
 bioconductor-rhdf5lib
-r-gam
 r-rcolorbrewer
+r-devtools
 bioconductor-scran
 bioconductor-mast
 bioconductor-monocle
