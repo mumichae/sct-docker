@@ -4,14 +4,13 @@ FROM jupyter/datascience-notebook:9f9e5ca8fe5a
 USER root
 RUN apt-get update
 RUN apt-get install -y openssh-client
-USER 1000
 COPY requirements.txt /tmp/
 COPY requirements_pip.txt /tmp/
 COPY rpackages.R /tmp/
 RUN mkdir /tmp/trvae
 RUN mkdir /tmp/Benchmarking_data_integration
 COPY trvae/ /tmp/trvae/
-COPY Benchmarking_data_integration/ tmp/Benchmarking_data_integration/
+COPY Benchmarking_data_integration/ /tmp/Benchmarking_data_integration/
 WORKDIR /tmp
 RUN conda config --append channels conda-forge
 RUN conda config --append channels bioconda
