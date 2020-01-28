@@ -1,5 +1,5 @@
 cmake
-r-base
+r-base=3.5
 r-rgl
 gsl
 tzlocal

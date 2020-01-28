@@ -7,7 +7,7 @@ git+https://github.com/theislab/scanpy
 fa2
 gprofiler-official
 rpy2>=3
-#git+https://github.com/flying-sheep/anndata2ri
+git+https://github.com/flying-sheep/anndata2ri
 bbknn
 scanorama
 mnnpy
