@@ -1,3 +1,4 @@
+Sys.setenv(TAR = "/bin/tar")
 options(repos=structure(c(CRAN="https://cloud.r-project.org")))
 
 if (!requireNamespace('BiocManager', quietly = TRUE)) {

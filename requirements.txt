@@ -1,3 +1,5 @@
+python=3.7
+snakemake
 cmake
 r-base=3.5
 r-rgl
@@ -5,11 +7,14 @@ gsl
 tzlocal
 simplegeneric
 natsort
+hdf5=1.10.4
 h5py
 tqdm
 patsy
 llvmlite
-numba
+numba=0.45
+numpy=1.17
+pandas=0.25
 networkx
 joblib
 numexpr
@@ -29,3 +34,13 @@ memory_profiler
 #bioconductor-complexheatmap
 #bioconductor-slingshot
 pip=19.*
+anndata=0.7.1
+anndata2ri=1.0.2
+bbknn=1.3.5
+h5py=2.10
+rpy2>=3
+scikit-learn=0.22.1
+scipy=1.2.1
+scvi=0.5
+matplotlib=3.0
+networkx=2.2

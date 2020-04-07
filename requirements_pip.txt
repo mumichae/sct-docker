@@ -1,16 +1,5 @@
-#-e ./trvae
-#-e ./Benchmarking_data_integration
-#git+https://github.com/theislab/Benchmarking_data_integration
-MulticoreTSNE
-anndata
-git+https://github.com/theislab/scanpy
-fa2
+-e ./scib
+git+https://github.com/theislab/scanpy@d69832a662bbb1047b06a081b789856b53a3931e
 gprofiler-official
-rpy2>=3
-git+https://github.com/flying-sheep/anndata2ri
-bbknn
-scanorama
 mnnpy
-#trvae
-scvi
-
+git+https://github.com/theislab/trVAE
