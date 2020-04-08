@@ -15,7 +15,6 @@ llvmlite
 numba=0.45
 numpy=1.17
 pandas=0.25
-networkx
 joblib
 numexpr
 pytables
