@@ -1,14 +1,14 @@
 package bioconductor
-devtools FALSE
-rngtools FALSE
-Rhdf5lib TRUE
-RColorBrewer FALSE
-scran TRUE
-MAST TRUE
-monocle TRUE
-ComplexHeatmap TRUE
-slingshot TRUE
-Seurat FALSE
+#devtools FALSE
+#rngtools FALSE
+#Rhdf5lib TRUE
+#RColorBrewer FALSE
+#scran TRUE
+#MAST TRUE
+#monocle TRUE
+#ComplexHeatmap TRUE
+#slingshot TRUE
+#Seurat FALSE
 theislab/kBET TRUE
 immunogenomics/harmony TRUE
 
