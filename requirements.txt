@@ -27,6 +27,7 @@ r-seurat
 bioconductor-rhdf5lib
 r-rcolorbrewer
 r-devtools
+r-harmony
 bioconductor-scran
 bioconductor-mast
 bioconductor-monocle

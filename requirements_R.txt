@@ -10,5 +10,5 @@ package bioconductor
 #slingshot TRUE
 #Seurat FALSE
 theislab/kBET TRUE
-immunogenomics/harmony TRUE
+#immunogenomics/harmony TRUE
 
